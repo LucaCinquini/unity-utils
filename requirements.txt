@@ -1,0 +1,5 @@
+# for OGC API processing
+git+https://github.com/unity-sds/unity-monorepo.git@main#subdirectory=libs/unity-py
+IPython
+ipywidgets
+
